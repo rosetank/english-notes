@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "pascalize"
+    ],
+    "markdownlint.config": {
+        "default": true,
+        "MD033": {
+          "allowed_elements": [ "iframe", "summary", "details" ]
+        }
+    }
+}
