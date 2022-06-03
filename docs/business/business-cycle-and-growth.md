@@ -5,8 +5,9 @@ slug: /Business-Cycle-and-Growth
 title: 🔄 Business Cycle and Growth
 ---
 
-An entrepreneur or a group of individuals come up with a business idea and start a venture. The business is successful in atrracting customers and gains foothold in the market.
 
+
+An entrepreneur or a group of individuals come up with a business idea and start a venture. The business is successful in atrracting customers and gains foothold in the market.
 
 `-` The business then grows through increased custom - Manufacturing has to be scaled. Word of mouth leads to increased custom. <br />
 `-` The business continues to grow locally/nationally - They may need to create satellite units to save on logistics costs or recap benefit of local savings. <br />
@@ -15,7 +16,7 @@ An entrepreneur or a group of individuals come up with a business idea and start
 `-` The bsiness goes global and international sites are created in different countries/regions. <br />
     `-`Some local customisation of the product attracts more localised customers. <br />
 
-:::info LOCAL customisation
+::: tip LOCAL customisation
 Change of colours or specifications to make it better suit the city/county
 :::
 

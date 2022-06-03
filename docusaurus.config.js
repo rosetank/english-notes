@@ -24,15 +24,15 @@ module.exports = {
       src: "https://status.notes.nayanpatel.net/widget/script.js",
     },
   ],
-  title: 'Digital Support Services Notes',
+  title: 'Rosetank Notes',
   tagline: 'An awesome textbook alternative, that you can contribute to! 🚀',
   url: 'https://notes.nayanpatel.net',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
-  organizationName: 'Digital Support Services notes', // Usually your GitHub org/user name.
-  projectName: 'Digital Support Services notes', // Usually your repo name.
+  organizationName: 'Rosetank notes', // Usually your GitHub org/user name.
+  projectName: 'Rosetank notes', // Usually your repo name.
   clientModules: [require.resolve('./src/css/tailwind.css')],
   themeConfig: {
     umami: {
@@ -124,7 +124,7 @@ module.exports = {
             },
             {
               label: 'Careers',
-              to: '/careers/About-careers',
+              to: '/careers/about-careers',
               activeBasePath: '/careers',
             },
             {
@@ -168,9 +168,9 @@ module.exports = {
               activeBasePath: '/tools',
             },
             {
-              label: 'ESP',
-              to: '/esp/About-esp',
-              activeBasePath: '/esp',
+              label: 'CDP',
+              to: '/cdp/About-cdp',
+              activeBasePath: '/cdp',
             },
           ],
         },
@@ -407,9 +407,9 @@ module.exports = {
   [
     '@docusaurus/plugin-content-docs',
     {
-      path: 'docs/esp',
-      routeBasePath: 'esp',
-      id: 'esp',
+      path: 'docs/cdp',
+      routeBasePath: 'cdp',
+      id: 'cdp',
       sidebarPath: require.resolve('./sidebars/autogen.js'),
       ...pageOptions,
     },

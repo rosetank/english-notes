@@ -27,7 +27,7 @@ function FeatureRequests() {
   return (
     <Layout
       title="Feedback"
-      description="Digital Support Services Notes Feature Requests page"
+      description="Rosetank Notes Feature Requests page"
     >
       <main
         className={clsx('container', 'margin-vert--lg', styles.main)}

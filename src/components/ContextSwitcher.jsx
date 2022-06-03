@@ -108,8 +108,8 @@ const CONTEXTS = [
     icon: FcSupport,
   },
   {
-    id: 'esp',
-    name: 'ESP',
+    id: 'cdp',
+    name: 'CDP',
     icon: FcManager,
   },
 ];

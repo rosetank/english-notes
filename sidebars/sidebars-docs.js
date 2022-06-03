@@ -3,7 +3,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Home',
-      items: ['home/introduction', 'home/contributing'],
+      items: ['home/introduction'],
     },
     {
       type: 'category',
@@ -36,13 +36,8 @@ module.exports = {
         },
         {
           type: 'link',
-          label: '📜 Legislation',
-          href: '/legislation/About-legislation',
-        },
-        {
-          type: 'link',
           label: '📇 Careers',
-          href: '/careers/About-careers',
+          href: '/careers/about-careers',
         },
         {
           type: 'link',

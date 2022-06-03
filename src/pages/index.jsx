@@ -6,8 +6,8 @@ export default function Homepage() {
   return (
     <>
       <Head>
-        <meta title="Digital Support Services Notes" />
-        <meta property="og:title" content="Digital Support Services Notes" />
+        <meta title="Rosetank Notes" />
+        <meta property="og:title" content="Rosetank Notes" />
         <meta
           property="og:description"
           content="An awesome textbook alternative, that you can contribute to! 🚀"
